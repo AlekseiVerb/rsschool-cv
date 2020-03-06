@@ -2,4 +2,4 @@
 
 Complete Task for Rolling Scopes School
 
-# my cv 
+# my cv  https://alekseiverb.github.io/rsschool-cv/
